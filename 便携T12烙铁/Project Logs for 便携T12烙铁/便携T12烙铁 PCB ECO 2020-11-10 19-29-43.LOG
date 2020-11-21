@@ -1,0 +1,18 @@
+Change Component Comment : Designator=Q1 Old Comment=NPN1 New Comment=NPN
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Description : Designator=Q1 Old Description=NPN三极管 New Description=NPN三极管
+2SC3356-T1B-A
+Change Component Description : Designator=Q2 Old Description=P沟道场效应管 New Description=P沟道场效应管
+IRF4905STRLPBF
+Change Component Description : Designator=S2 Old Description=按键开关 New Description=侧立按键开关
+3*6*4.3
+Change Component Description : Designator=S3 Old Description=按键开关 New Description=侧立按键开关
+3*6*4.3
+Change Component Description : Designator=SS1 Old Description=肖特基二极管 New Description=肖特基二极管SS12
+Change Component Description : Designator=S1 Old Description=震动开关 New Description=震动开关
+SW180  建议SW18015
+Added Component: Designator=J5(KF301-5.0-2P)
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=VCC Pin=J5-2
+Added Member To Class: ClassName=便携T12烙铁 Member=Component J5 KF301-2P
+Added Room: Name=便携T12烙铁

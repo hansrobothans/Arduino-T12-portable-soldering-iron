@@ -1,0 +1,25 @@
+Change Component Comment : Designator=R7 Old Comment=10K New Comment=2K
+Change Component Comment : Designator=R8 Old Comment=10K New Comment=2K
+Added Component: Designator=R2(0603R)
+Added Pin To Net: NetName=NetQ1_B Pin=R2-1
+Added Pin To Net: NetName=PWM_MOS Pin=R2-2
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component C1 2.2n
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component C2 0.1u
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component C3 0.1u
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component P1 ±£ÏÕË¿¼Ğ×Ó
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component P3 ±£ÏÕË¿¼Ğ×Ó
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component Q2 P-MOS
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R1 10K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R2 1K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R4 1K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R5 200K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R6 10K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R7 2K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R8 2K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R9 10K
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component R10 1M
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component S2 SW
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component S3 SW
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component U2 ATMEGA328P-AU
+Added Member To Class: ClassName=±ãĞ¯T12ÀÓÌú Member=Component X1 16MHZ
+Added Room: Name=±ãĞ¯T12ÀÓÌú

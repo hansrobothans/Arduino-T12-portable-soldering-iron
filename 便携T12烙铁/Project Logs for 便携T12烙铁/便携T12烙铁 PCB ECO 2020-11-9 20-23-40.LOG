@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=V+ Pin=C6-2
+Removed Pin From Net: NetName=VCC Pin=CN1-1
+Removed Pin From Net: NetName=GND Pin=CN1-5
+Removed Pin From Net: NetName=GND Pin=CN1-6
+Removed Pin From Net: NetName=GND Pin=CN1-7
+Removed Pin From Net: NetName=GND Pin=CN1-8
+Removed Pin From Net: NetName=GND Pin=CN1-9
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=V+ Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=VCC Pin=P6-1
+Removed Pin From Net: NetName=VCC Pin=Q3-3
+Removed Pin From Net: NetName=TEMP_sense Pin=Q3-4
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=L_but Pin=R1-2
+Removed Pin From Net: NetName=Hall Pin=R2-1
+Removed Pin From Net: NetName=V- Pin=R6-1
+Removed Pin From Net: NetName=TEMP Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=V- Pin=R7-2
+Removed Pin From Net: NetName=L_but Pin=S2-2
+Removed Pin From Net: NetName=R_but Pin=S3-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=SS1-A
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component C1 2.2n
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component C2 0.1u
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component P1 ±£œ’Àøº–◊”
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component Q2 P-MOS
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component R4 1K
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component R5 200K
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component R8 10K
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component R9 10K
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component U2 ATMEGA328P-AU
+Added Member To Class: ClassName=±„–ØT12¿”Ã˙ Member=Component X1 16MHZ
+Added Room: Name=±„–ØT12¿”Ã˙
